@@ -29,11 +29,11 @@ const STORAGE_KEY_GH_CONFIG = 'wedding_github_sync_config';
 
 const DEFAULT_GH_CONFIG: GitHubSyncConfig = {
   enabled: false,
-  owner: '',
-  repo: '',
+  owner: 'auraweddingsandevents21-lang',
+  repo: 'Basti-Ambiya',
   branch: 'main',
   filePath: 'wedding-rsvps.xlsx',
-  token: '',
+  token: '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',
   autoSyncOnSubmit: true,
 };
 
